@@ -30,13 +30,13 @@ Importing the Project into IntelliJ
     Unpacking objects: 100% (23/23), done.
 ```
 
-* Install the Ruby plugin
+* Open IntelliJ and install the Ruby plugin
 
 ```sh
     Configure > Plugins > Browse Repositories > Ruby
 ```
 
-* Create a new Ruby Project and set the Project Location to where you checked out the source from Git.
+* Create a new Ruby Project and set the Project Location to be where you checked out the source from Git.
 
 * Specify the Ruby SDK, adding it if there isn't already one to choose.
 
