@@ -1,7 +1,7 @@
 CucumberRubyTemplate
 ====================
 
-Baseline cucumber project for my explorations with running Ruby Cucumber inside IntelliJ 12
+Baseline cucumber project to help explain how to get Ruby Cucumber to work inside IntelliJ 12.
 
 Requirements
 ------------
