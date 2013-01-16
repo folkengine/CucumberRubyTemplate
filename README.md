@@ -6,7 +6,7 @@ Baseline cucumber project for my explorations with running Ruby Cucumber inside 
 Requirements
 ------------
 
-* Ruby 1.9.x
+* Ruby 1.9.x installed and on your classpath:
 
 ```sh
     $> ruby -v
