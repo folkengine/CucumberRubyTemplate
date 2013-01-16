@@ -13,3 +13,10 @@ Requirements
     ruby 1.9.3p362 (2012-12-25) [i386-mingw32]
 ```    
 * IntelliJIDEA 12
+
+
+Importing
+
+Adding Rake Configuration
+
+Click on
